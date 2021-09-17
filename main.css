@@ -1,0 +1,46 @@
+body {
+  background-image: url("blackops.jpg");
+}
+.row-menu{
+display:flex;
+}
+.column-menu {
+flex: 20%;
+margin: 0% 10% 0% 10%;
+}
+h1 {
+text-align:center;
+font-size:50px;
+background-color:yellow;
+border:30px solid black;
+}
+.style {
+text-align:center;
+font-size:15px;
+background-color:black;
+color:white;
+border: 10px solid yellow;
+padding:5px;
+}
+h2 {
+  text-align:center;
+  font-size:50px;
+  background-color:yellow;
+  border:30px solid black;
+}
+.story{
+  background-color:black;
+  font-size:10pt;
+  color:white;
+  border: 10px solid yellow;
+}
+a {
+  color:hotpink;
+}
+.row-bo2{
+display:flex;
+}
+.column-bo2{
+flex: 20%;
+margin: 0% 10% 0% 10%;
+}
